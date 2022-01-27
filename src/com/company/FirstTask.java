@@ -14,6 +14,6 @@ public class FirstTask {
     }
     public static void main(String[] args) {
 
-         System.out.println("First Task Answer is : "+ firstTask(10));
+         System.out.println("First Task Answer is : "+ firstTask(100));
     }
 }
